@@ -1,4 +1,4 @@
-# ConstrainedPrologGeneration
+# Constrained Prolog Generation
 Generation of prolog variables using hyper-graphs and constraints.
 
 ## Graph For Variable Creation
